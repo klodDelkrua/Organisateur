@@ -1,0 +1,3 @@
+8 mars|8 mars 2026|La fete des femmes est un excellent evenement on l'attend avec impatience|true
+Anniversaire Delcroix|15 decembre|la fete d'anniversaire|false
+Noel|25 decembre|la fete de la naissance du seigneur jesus|false
